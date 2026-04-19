@@ -1,4 +1,4 @@
-#include "analise.h"
+#include "ajuste.h"
 #include <cmath>
 #include <limits>
 

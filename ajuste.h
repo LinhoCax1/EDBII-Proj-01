@@ -1,5 +1,5 @@
-#ifndef ANALISE_H
-#define ANALISE_H
+#ifndef AJUSTE_H
+#define AJUSTE_H
 
 #include <vector>
 #include <string>

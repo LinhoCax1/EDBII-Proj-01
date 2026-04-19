@@ -2,7 +2,7 @@
 #include <fstream>
 #include "algoritmos.h"
 #include "benchmark.h"
-#include "analise.h"
+#include "ajuste.h"
 
 
 void salvarCSV(const std::string& nome, const std::vector<std::pair<int,double>>& dados) {
